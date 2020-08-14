@@ -3,3 +3,6 @@ A  set of iOS interactions techniques ( low-level interactions) and transition p
 
 ## **A Summary Notification View into a Detailed View**
 ![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/N/notifications.gif)
+
+## **Springy Photo Zoom**
+![Breath Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/P/springyPhotoZoom.gif)

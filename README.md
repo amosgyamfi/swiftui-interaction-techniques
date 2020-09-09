@@ -2,6 +2,9 @@
 A  set of iOS interactions techniques ( low-level interactions) and transition patterns for your next iOS project.  An example interaction technique can be swiping to delete an object. Transition patterns could be page-to-page transitions or layer-to-layer transitions. 
 
 
+## **SwiftUI Sheet Presentation**
+![SwiftUI Sheet Presentation](https://github.com/amosgyamfi/swiftui-interaction-techniques/blob/master/swiftUI_sheet_dribbble.gif)
+
 ## **Springy Like Interaction Technique**
 ![Springy Like Animation](https://github.com/amosgyamfi/swiftui-animation-library/blob/master/L/like_animation.gif)
 
